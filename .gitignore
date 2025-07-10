@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+*.pot
+*.mo
+*.env
+.env*
+venv/
+ENV/
+.envrc
+
+# Django
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Compiled files
+*.so
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Test coverage
+htmlcov/
+.coverage
+.tox/
+
+# Misc
+*.orig
+
+# Ignore theme build artifacts
+/theme/assets/*.svg
+/theme/assets/*.ico
+
+# Ignore secret files
+secrets.json
+
+# Ignore pip cache
+pip-wheel-metadata/
+__pypackages__/
+
+# Ignore Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore build
+build/
+dist/

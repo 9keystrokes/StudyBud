@@ -1,7 +1,12 @@
 # StudyBud
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-green)](https://studybud-fz2w.onrender.com/)
+[![Deployment](https://img.shields.io/badge/Deployed%20on-Render-blue)](https://studybud-fz2w.onrender.com/)
+
+StudyBud is a collaborative platform designed to help students and lifelong learners connect, organize, and optimize their study sessions. Whether you're preparing for exams, working on group projects, or just looking for a focused study partner, StudyBud provides the tools and community you need to succeed.
+
 ## 🌐 Live Demo
-Visit our platform at: [AlumConnect](https://bit.ly/Alum-Connect)
+Visit our platform at: [StudyBud]([https://bit.ly/Alum-Connect](https://studybud-fz2w.onrender.com/))
 
 ## Features
 

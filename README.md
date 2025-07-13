@@ -1,61 +1,29 @@
-<div align="center">
-StudyBud
-</div>
+# StudyBud
 
-### Cloning the repository
+## 🌐 Live Demo
+Visit our platform at: [AlumConnect](https://bit.ly/Alum-Connect)
 
---> Clone the repository using the command below :
-```bash
-git clone https://github.com/9keystrokes/StudyBud-Project
+## Features
 
-```
+- **Study Group Creation:** Easily create or join study groups based on subjects, interests, or upcoming exams.
+- **Resource Sharing:** Share notes, links, and files securely within your study groups.
+- **Task Management:** Organize assignments, track progress, and set reminders.
+- **Real-Time Chat:** Communicate with group members via instant messaging.
+- **Customizable Profiles:** Showcase your interests, strengths, and study preferences.
 
---> Move into the directory where we have the project files : 
-```bash
-cd StudyRoom
+## Built With
 
-```
+- **HTML & CSS:** For responsive and accessible front-end design.
+- **JavaScript:** Enhances interactivity and user experience.
+- **Python:** Powers server-side logic and backend services.
 
---> Create a virtual environment :
-```bash
-# Let's install virtualenv first
-pip install virtualenv
+## Getting Started
 
-# Then we create our virtual environment
-virtualenv .venv
+To run the app locally:
 
-```
-
---> Activate the virtual environment :
-```bash
-.venv\Scripts\activate
-
-```
-
---> Install the requirements :
 ```bash
 pip install -r requirements.txt
-
-```
-
-#
-
-### Running the App
-
---> To run the App, we use :
-```bash
 python manage.py runserver
-
 ```
 
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
-
-### Live Website
-
---> https://studybud-fz2w.onrender.com
-
-
-
-
-
-
+> ⚠ Then, the development server will be started at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
